@@ -1,0 +1,27 @@
+{
+  "name": "react-redux-ready",
+  "version": "1.0.3",
+  "description": "Simpler way to use redux with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/teefouad/react-redux-ready.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Mostafa <tee.fouad@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teefouad/react-redux-ready/issues"
+  },
+  "homepage": "https://github.com/teefouad/react-redux-ready#readme",
+  "dependencies": {
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
+  }
+}
